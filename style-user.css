@@ -1,0 +1,65 @@
+body{
+    background-image: url('./photo/backlogin.jpg');
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+.ipbrand{
+    border: 8px whitesmoke
+    outset;
+}
+.ipusers{
+    border: 8px whitesmoke
+    outset;
+}
+.ipdetail{
+    border: 8px whitesmoke
+    outset;
+}
+.ip{
+    border: 3px  whitesmoke
+    outset;
+}
+.ipi{
+    border-width: 3px; /* กำหนดขนาดขอบทั้ง 4 ด้าน */
+    border-style: outset; /* กำหนดรูปแบบของขอบ */
+    border-color: whitesmoke; /* กำหนดสีของขอบ */
+
+    /* กำหนดขอบด้านซ้ายเป็น 0px */
+    border-left-width: 0;
+}
+
+@font-face {
+    font-family: fip;
+    src: url(./font/PantheraRegular-MVZ9J.ttf);
+}
+@font-face {
+    font-family: fip2;
+    src: url(./font/AmcapEternal-xK95.ttf);
+}
+@font-face {
+    font-family: fip3;
+    src: url(./font/AvengeroRegular-zvgl.ttf);
+    
+}
+.text1{
+    font-family: 'fip2',sans-serif;
+}
+.ipbrand{
+    font-family: 'fip2',sans-serif;
+}
+.ip{
+    font-family: 'fip2',sans-serif;
+}
+.text-brand{
+    font-family: 'fip3',sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.navbar{
+    background-color: blue;
+}
+.btn-color{
+    background-color:  #067bb0 ;
+}

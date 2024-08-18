@@ -1,0 +1,4 @@
+1.เพิ่ม การ check ก่อนลบ type,product,payment,employee,member ผ่าน id
+2.เพิ่ม user_id ในตะกร้าสินค้า เพื่อแยกของใครของมัน
+3.เพิ่ม sweet alert ทั้ง 2 ระบบ 
+4.เพิ่มสินค้า ใน product

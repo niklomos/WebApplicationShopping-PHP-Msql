@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url(./photo/backau1.jpg);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbg{
+    border-bottom: 1px solid white;
+}
+.ip{
+    border: 3px  whitesmoke outset;
+}
+
+  @font-face{
+   
+    font-family:f1 ;
+    src: url('./font/AvengeroDisassembledRegular-nRvd4.ttf');
+}
+@font-face{
+   
+    font-family:f2 ;
+    src: url('./font//AvengeroRegular-zvgl.ttf');
+}
+@font-face{
+   
+    font-family:f3 ;
+    src: url('./font/AnkhSanctuary-nROx4.ttf');
+}
+
+.text-brand{
+    font-family:'f2',sans-serif ;
+}
+.d-flex{
+    font-family:'f2',sans-serif ;
+}
+.b-nav{
+    border-bottom: 3px whitesmoke 
+    outset;
+}
+/* new sidebar */

@@ -1,0 +1,80 @@
+/* body{
+    background-image: url('./photo/backnew.jpg');
+    background-size: cover;
+    color: white;
+} */
+
+.ss{
+    border: 8px whitesmoke
+    outset;
+}
+.ipusers{
+    border: 8px whitesmoke
+    outset;
+}
+.ipdetail{
+    border: 8px whitesmoke
+    outset;
+}
+.ip{
+    border: 3px  whitesmoke
+    outset;
+}
+.b-product{
+    border: 3px  whitesmoke
+    outset;
+}
+
+.ipi{
+    border-width: 3px; /* กำหนดขนาดขอบทั้ง 4 ด้าน */
+    border-style: outset; /* กำหนดรูปแบบของขอบ */
+    border-color: whitesmoke; /* กำหนดสีของขอบ */
+
+    /* กำหนดขอบด้านซ้ายเป็น 0px */
+    border-left-width: 0;
+}
+
+@font-face {
+    font-family: fip;
+    src: url(./font/PantheraRegular-MVZ9J.ttf);
+}
+@font-face {
+    font-family: fip2;
+    src: url(./font/AmcapEternal-xK95.ttf);
+}
+@font-face {
+    font-family: fip3;
+    src: url(./font/AvengeroRegular-zvgl.ttf);
+    
+}
+.navbar-brandss{
+    font-family: 'fip2',sans-serif;
+}
+.ipbrand{
+    font-family: 'fip2',sans-serif;
+}
+.ip{
+    font-family: 'fip2',sans-serif;
+}
+.f-head{
+    font-family: 'fip2',sans-serif;
+}
+.navbar-brand{
+    font-family: 'fip3',sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.nav-search{
+    border-bottom: 3px  whitesmoke
+    outset;
+}
+nav{
+    background-color: #0060ad;
+}
+.btn-detail{
+    background-color: #0060ad;
+}
+.btn-color{
+    background-color: #0060ad;
+}
